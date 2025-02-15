@@ -1,0 +1,15 @@
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\bin\Debug\windowsMediaPlayer.exe.config
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\bin\Debug\windowsMediaPlayer.exe
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\bin\Debug\windowsMediaPlayer.pdb
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.Form1.resources
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.Properties.Resources.resources
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.csproj.GenerateResource.cache
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.exe
+C:\Users\Msi\source\repos\windowsMediaPlayer\windowsMediaPlayer\obj\Debug\windowsMediaPlayer.pdb
